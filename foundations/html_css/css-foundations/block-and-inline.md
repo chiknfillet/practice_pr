@@ -6,11 +6,6 @@
 
 
 
-- You'll learn about "Normal flow".
-- You'll learn the difference between `block` and `inline` elements.
-- You'll learn which elements default to `block` and which elements default to `inline`.
-- You'll learn what divs and spans are.
-
 ### Block vs inline
 
 Most of the elements that you have learned about so far are block elements.  In other words, their default style is `display: block`. <span id="block-inline-difference"></span>By default, block elements will appear on the page stacked atop each other, each new element starting on a new line.
